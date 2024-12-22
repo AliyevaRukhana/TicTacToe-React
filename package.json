@@ -2,7 +2,8 @@
   "name": "TicTacToe-React",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aliyevarukhana.github.io/TicTacToe-React",
+  "homepage": "https://aliyevarukhana.github.io/TicTacToe-React/build/index.html",
+  
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
